@@ -1,0 +1,2 @@
+# MNIST_VAE_CFG_DiT
+MNIST图像条件生成
